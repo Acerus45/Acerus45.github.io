@@ -1,52 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- created with www.majento.ru -->
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-	<loc>https://www.acerus45.ru/</loc>
-	<lastmod>2019-12-29T17:21:24+03:00</lastmod>
-	<priority>1.0</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>https://www.acerus45.ru/Kak raskrutitsya.html</loc>
-	<lastmod>2019-12-29T17:21:24+03:00</lastmod>
-	<priority>0.9</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>https://www.acerus45.ru/Kak strimit.html</loc>
-	<lastmod>2019-12-29T17:21:24+03:00</lastmod>
-	<priority>0.9</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>https://www.acerus45.ru/O donate.html</loc>
-	<lastmod>2019-12-29T17:21:24+03:00</lastmod>
-	<priority>0.9</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>https://www.acerus45.ru/Ob igrakh.html</loc>
-	<lastmod>2019-12-29T17:21:24+03:00</lastmod>
-	<priority>0.9</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>https://www.acerus45.ru/Poleznoye dlya strima.html</loc>
-	<lastmod>2019-12-29T17:21:24+03:00</lastmod>
-	<priority>0.9</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>https://www.acerus45.ru/gde strimit.html</loc>
-	<lastmod>2019-12-29T17:21:24+03:00</lastmod>
-	<priority>0.9</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>https://www.acerus45.ru/index.html</loc>
-	<lastmod>2019-12-29T17:21:24+03:00</lastmod>
-	<priority>0.9</priority>
-	<changefreq>weekly</changefreq>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.acerus45.ru/.html</loc>
+	</url>
+	<url>
+		<loc>https://www.acerus45.ru/Poleznoye-dlya-strima.html</loc>
+	</url>
+	<url>
+		<loc>https://www.acerus45.ru/Kak-raskrutitsya.html</loc>
+	</url>
+	<url>
+		<loc>https://www.acerus45.ru/Ob-igrakh.html</loc>
+	</url>
+	<url>
+		<loc>https://www.acerus45.ru/O-donate.html</loc>
+	</url>
+	<url>
+		<loc>https://www.acerus45.ru/Kak-strimit.html</loc>
+	</url>
+	<url>
+		<loc>https://www.acerus45.ru/gde-strimit.html</loc>
+	</url>
 </urlset>
