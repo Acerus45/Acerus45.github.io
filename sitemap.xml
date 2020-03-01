@@ -1,23 +1,44 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://www.acerus45.ru/</loc>
-	</url>
-	<url>
-		<loc>https://www.acerus45.ru/gde-strimit.html</loc>
-	</url>
-	<url>
-		<loc>https://www.acerus45.ru/Kak-strimit.html</loc>
-	</url>
-	<url>
-		<loc>https://www.acerus45.ru/O-donate.html</loc>
-	</url>
-	<url>
-		<loc>https://www.acerus45.ru/Ob-igrakh.html</loc>
-	</url>
-	<url>
-		<loc>https://www.acerus45.ru/Kak-raskrutitsya.html</loc>
-	</url>
-	<url>
-		<loc>https://www.acerus45.ru/Poleznoye-dlya-strima.html</loc>
-	</url>
+<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://www.acerus45.ru/</loc>
+	<lastmod>2020-03-01T14:03:11+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.acerus45.ru/index.html</loc>
+	<lastmod>2020-03-01T14:03:12+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.acerus45.ru/gde-strimit.html</loc>
+	<lastmod>2020-03-01T14:03:15+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.acerus45.ru/Kak-strimit.html</loc>
+	<lastmod>2020-03-01T14:03:15+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.acerus45.ru/O-donate.html</loc>
+	<lastmod>2020-03-01T14:03:15+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.acerus45.ru/Ob-igrakh.html</loc>
+	<lastmod>2020-03-01T14:03:18+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.acerus45.ru/Kak-raskrutitsya.html</loc>
+	<lastmod>2020-03-01T14:03:16+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.acerus45.ru/Poleznoye-dlya-strima.html</loc>
+	<lastmod>2020-03-01T14:03:16+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
 </urlset>
