@@ -114,8 +114,7 @@
         <div data-block="chat" data-type="facebook" data-url="https://facebook.com"></div>
         <div data-block="chat" data-type="viber" data-url="https://viber.com"></div>
       </div>
-      <p>Наш адрес: <a href="#">Nullam dolor massa, porta a nulla in, ultricies vehicula arcu.</a></p>
-      <p>Фотографии — http://unsplash.com</p>
+      
     ]]>
     </turbo:content>
 </item>
