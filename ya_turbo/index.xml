@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
- <!--created with www.maxim-m.ru-->
+ 
  <rss xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/"
  xmlns:turbo="http://turbo.yandex.ru" version="2.0">
  <channel>
- <turbo:cms_plugin>MaxImco Genarator</turbo:cms_plugin>
+
  <title>Acerus45 | Кто такие стримеры</title>
  <link>https://www.acerus45.ru</link>
  <description>Кто такие стримеры и как они зарабатывают</description>
@@ -16,7 +16,7 @@
  
  <turbo:content><![CDATA[<header><menu><a href='https://www.acerus45.ru'>Главная</a></menu></header><amp-sidebar id="sidebar" layout="nodisplay" side="right">
  
- 
+ <menu>
  <ul><li>
  <a href="https://www.acerus45.ru/index.html">Главная</a>
  </li>
@@ -26,9 +26,8 @@
  <li>
  <a href="https://www.acerus45.ru/Kak-strimit.html">Программы для стрима</a>
  </li><li><a href="https://www.acerus45.ru/O-donate.html">О донате</a></li><li><a href="https://www.acerus45.ru/Ob-igrakh.html">Об играх</a></li><li><a href="https://www.acerus45.ru/Kak-raskrutitsya.html">Как раскрутится</a></li><li><a href="https://www.acerus45.ru/Poleznoye-dlya-strima.html">Полезное для стрима</a></li></ul>
- 
-<amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-KRX3RZC&gtm.url=SOURCE_URL" data-credentials="include">
-<amp-auto-ads type="adsense" data-ad-client="ca-pub-2079102452301021">
+ </menu>
+
  <p>
  
  <p>
@@ -36,6 +35,7 @@
  <amp-img src="assets/images/0-nr1agrx2beihnpxs-90x65.jpg" layout="responsive" width="45.69230769230769" height="33" alt="Acerus45.ru" title="Acerus45.ru">
  </span>
  <p>Acerus45.ru</p>
+<menu>
  <ul><li>
  <a href="https://www.acerus45.ru/index.html">Главная</a>
  </li>
@@ -45,14 +45,14 @@
  <li>
  <a href="https://www.acerus45.ru/Kak-strimit.html">Программы для стрима</a>
  </li><li><a href="https://www.acerus45.ru/O-donate.html">О донате</a></li><li><a href="https://www.acerus45.ru/Ob-igrakh.html">Об играх</a></li><li><a href="https://www.acerus45.ru/Kak-raskrutitsya.html">Как раскрутится</a></li><li><a href="https://www.acerus45.ru/Poleznoye-dlya-strima.html">Полезное для стрима</a></li></ul>
- 
+ </menu>
  
  
  
  </p>
  
 </p>
-<p><a href="https://mobirise.info/s">bootstrap themes</a></p><p>
+
  
  <h1>Кто такие стримеры <br>и как они зарабатывают</h1>
  
@@ -123,12 +123,5 @@
  © Copyright 2020 Acerus45.ru&nbsp;- All Rights Reserved
  </strong></p>
  </p>
- <amp-user-notification id="amp-cookies-notification" layout="nodisplay">We use cookies to give you the best experience. Read our <a href="https://www.acerus45.ru/privacy.html">cookie policy</a>.Agree
- <p>Страница сгенерирована с помощью <a href="https://www.maxim-m.ru/tools/y-turbo">сервиса Maxim-M</a></p><p>Контактные данные<br>Сайт:<a href="https://www.maxim-m.ru">maxim-m.ru</a></p>
- <div data-block="widget-feedback" data-stick="false">
- <div data-block="chat" data-type="vkontakte" data-url="https://vk.com/alisa-skills"></div> <div data-block="chat" data-type="whatsapp" data-url="https://api.whatsapp.com/send?phone=79092813520"></div>
- <div data-block="chat" data-type="telegram" data-url="http://t.me/max36895"></div>
- <div data-block="chat" data-type="viber" data-url="viber://chat?number=79092813520"></div>
- </div>
- <p>Если вы хотите убрать данное поле, то свяжитесь с нами.</p>
+ 
  ]]></turbo:content></item></channel></rss>
