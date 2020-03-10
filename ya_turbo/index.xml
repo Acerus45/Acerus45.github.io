@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
- 
+
  <rss xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/"
  xmlns:turbo="http://turbo.yandex.ru" version="2.0">
  <channel>
-
+>
  <title>Acerus45 | Кто такие стримеры</title>
  <link>https://www.acerus45.ru</link>
  <description>Кто такие стримеры и как они зарабатывают</description>
@@ -14,8 +14,9 @@
  <description>Кто такие стримеры и как они зарабатывают</description>
  <title>Acerus45 | Кто такие стримеры</title><link>https://www.acerus45.ru/</link><category>Официальный сайт</category>
  
- <turbo:content><![CDATA[<header>
- <menu>
+ <turbo:content><![CDATA[<header><menu>
+ 
+ 
  <ul><li>
  <a href="https://www.acerus45.ru/index.html">Главная</a>
  </li>
@@ -26,8 +27,7 @@
  <a href="https://www.acerus45.ru/Kak-strimit.html">Программы для стрима</a>
  </li><li><a href="https://www.acerus45.ru/O-donate.html">О донате</a></li><li><a href="https://www.acerus45.ru/Ob-igrakh.html">Об играх</a></li><li><a href="https://www.acerus45.ru/Kak-raskrutitsya.html">Как раскрутится</a></li><li><a href="https://www.acerus45.ru/Poleznoye-dlya-strima.html">Полезное для стрима</a></li></ul>
  </menu>
-</header>
- 
+    </header>
 
  
  <h1>Кто такие стримеры <br>и как они зарабатывают</h1>
