@@ -61,15 +61,10 @@ body{font-family: Roboto;}blockquote{border-color: #4ea2e3;}.display-1{font-fami
 <!-- /Analytics -->
 <amp-analytics type="metrika">
             <script type="application/json">
-                {
-                    // Отправка параметров визита и посетителя
-                    "vars": {
+                {"vars": {
                         "counterId": "68577721",
                         "yaParams": "{\"key\":\"value\",\"__ymu\":{\"user_param_key\":\"user_param_value\"}}"
-                    },
-                    // Передача триггеров
-                    "triggers": {
-                        // Точный показатель отказов
+                    },"triggers": {
                         "notBounce": {
                             "on": "timer",
                             "timerSpec": {
@@ -78,38 +73,28 @@ body{font-family: Roboto;}blockquote{border-color: #4ea2e3;}.display-1{font-fami
                                 "maxTimerLength": 16
                             },
                             "request": "notBounce"
-                        },
-                        // Скроллинг страницы
-                        "halfScroll": {
+                        },"halfScroll": {
                             "on": "scroll",
                             "scrollSpec": {
                                 "verticalBoundaries": [
                                     50
                                 ]
-                            },
-                            // Отслеживание скроллинга как цели
-                            "request": "reachGoal",
+                            },"request": "reachGoal",
                             "vars": {
                                 "goalId": "halfScrollGoal"
                             }
-                        },
-                        // Скроллинг страницы
-                        "partsScroll": {
+                        },"partsScroll": {
                             "on": "scroll",
                             "scrollSpec": {
                                 "verticalBoundaries": [
                                     25,
                                     90
                                 ]
-                            },
-                            // Отслеживание скроллинга как цели 
-                            "request": "reachGoal",
+                            },"request": "reachGoal",
                             "vars": {
                                 "goalId": "partsScrollGoal"
                             }
-                        },
-                        // Скроллинг бесконечной ленты
-                        "trackScrollThrough": {
+                        },"trackScrollThrough": {
                             "on": "amp-next-page-scroll",
                             "request": "pageview"
                         }
